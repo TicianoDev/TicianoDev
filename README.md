@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/8V3z1xX.png" alt="Phrolova Banner" width="100%"/>
-</div>
-
 <h1 align="center">Ticiano MArquez 👋</h1>
 <h3 align="center">Un Programador en Unreal Engine 5 con una pasión por la tecnología y la resolución de problemas complejos.</h3>
 
@@ -44,12 +40,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TicianoDev&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TicianoDev&layout=compact&langs_count=8&theme=synthwave&hide_border=true" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-break.svg" width="100%"/>
-</div>
