@@ -40,8 +40,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TicianoDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TicianoDev&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%"/>
 </div>
 
 <br>
