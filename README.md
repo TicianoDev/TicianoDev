@@ -1,4 +1,4 @@
-<h1 align="center">Ticiano MArquez 👋</h1>
+<h1 align="center">Ticiano Marquez 👋</h1>
 <h3 align="center">Un Programador en Unreal Engine 5 con una pasión por la tecnología y la resolución de problemas complejos.</h3>
 
 <br>
